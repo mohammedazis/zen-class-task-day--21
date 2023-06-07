@@ -1,0 +1,31 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#dogImageContainer,
+#countriesContainer,
+#jokeContainer {
+  margin-top: 30px;
+}
+
+#dogImage {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+#countryList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#jokeText {
+  font-style: italic;
+}
